@@ -13,7 +13,7 @@ Provide a detailed description of the project.
 Run the following command
 
 ``` bash
-$ composer require tactics/foo
+$ composer require gertvdb/foo
 ```
 
 ## Dependencies
