@@ -43,7 +43,7 @@ If you discover any security related issues, please email info at tactics dot be
 
 ## Credits
 
-Development of this library is done by [gertvdb]([link-owner]).
+Development of this library is done by [gertvdb](https://github.com/gertvdb).
 
 ## License
 
